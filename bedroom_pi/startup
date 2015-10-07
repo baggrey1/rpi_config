@@ -1,0 +1,3 @@
+#start bedroom server
+cd /home/pi/automation/LEDroom/
+sudo python bedroomServer.py
